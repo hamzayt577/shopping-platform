@@ -1,0 +1,19 @@
+{
+  "name": "shopping-platform",
+  "version": "1.0.0",
+  "description": "A platform where you buy things.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamzayt577/shopping-platform.git"
+  },
+  "author": "Hamza Shaikh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hamzayt577/shopping-platform/issues"
+  },
+  "homepage": "https://github.com/hamzayt577/shopping-platform#readme"
+}

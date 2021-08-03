@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "hoodie",
+    "price": 50,
+    "image": "file:///C:/Users/Hamza/OneDrive/Desktop/coding/side-projects/shopping%20platform/data/img/hoodie.jpg"
+  },
+  {
+    "id": 2,
+    "name": "mug",
+    "price": 15,
+    "image": "file:///C:/Users/Hamza/OneDrive/Desktop/coding/side-projects/shopping%20platform/data/img/mug.jpg"
+  },
+  {
+    "id": 3,
+    "name": "shoes",
+    "price": 30,
+    "image": "file:///C:/Users/Hamza/OneDrive/Desktop/coding/side-projects/shopping%20platform/data/img/shoes.jpg"
+  },
+  {
+    "id": 4,
+    "name": "t shirt",
+    "price": 5,
+    "image": "file:///C:/Users/Hamza/OneDrive/Desktop/coding/side-projects/shopping%20platform/data/img/t%20shirt.jpg"
+  },
+  {
+    "id": 5,
+    "name": "usb",
+    "price": 30,
+    "image": "file:///C:/Users/Hamza/OneDrive/Desktop/coding/side-projects/shopping%20platform/data/img/usb.jpg"
+  }
+]

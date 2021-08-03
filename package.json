@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/hamzayt577/shopping-platform/issues"
   },
-  "homepage": "https://github.com/hamzayt577/shopping-platform#readme"
+  "homepage": "https://github.com/hamzayt577/shopping-platform#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
 }

@@ -1,32 +1,37 @@
 [
   {
     "id": 1,
-    "name": "hoodie",
+    "name": "Gildan Men's Fleece Hooded Sweatshirt",
     "price": 50,
-    "image": "file:///C:/Users/Hamza/OneDrive/Desktop/coding/side-projects/shopping%20platform/data/img/hoodie.jpg"
+    "image": "https://i.ibb.co/XkjNL8m/hoodie.jpg",
+    "alt": "hoodie"
   },
   {
     "id": 2,
-    "name": "mug",
+    "name": "Discord Limited Edition Cofee Mug",
     "price": 15,
-    "image": "file:///C:/Users/Hamza/OneDrive/Desktop/coding/side-projects/shopping%20platform/data/img/mug.jpg"
+    "image": "https://i.ibb.co/nnmnfmn/mug.jpg",
+    "alt": ""
   },
   {
     "id": 3,
-    "name": "shoes",
+    "name": "Nike Shoes Air Red",
     "price": 30,
-    "image": "file:///C:/Users/Hamza/OneDrive/Desktop/coding/side-projects/shopping%20platform/data/img/shoes.jpg"
+    "image": "https://i.ibb.co/XtFnQ6z/Sport-shoes-on-isolated-white-background.jpg",
+    "alt": ""
   },
   {
     "id": 4,
-    "name": "t shirt",
+    "name": "Mens T-Shirt",
     "price": 5,
-    "image": "file:///C:/Users/Hamza/OneDrive/Desktop/coding/side-projects/shopping%20platform/data/img/t%20shirt.jpg"
+    "image": "https://i.ibb.co/q9dX1Nn/Big-Chungus-Is-Among-Us-Shirt.jpg",
+    "alt": ""
   },
   {
     "id": 5,
-    "name": "usb",
+    "name": "SanDisk USB Drive 69 GB",
     "price": 30,
-    "image": "file:///C:/Users/Hamza/OneDrive/Desktop/coding/side-projects/shopping%20platform/data/img/usb.jpg"
+    "image": "https://i.ibb.co/ynQWdsP/SONY-DSC.jpg",
+    "alt": ""
   }
 ]

@@ -4,34 +4,44 @@
     "name": "Gildan Men's Fleece Hooded Sweatshirt",
     "price": 50,
     "image": "https://i.ibb.co/XkjNL8m/hoodie.jpg",
-    "alt": "hoodie"
+    "alt": "hoodie",
+    "review_author": "Allovera Marko",
+    "review_content": "The box this comes in is 4 kilometer by 5 mile and weights 17 gram."
   },
   {
     "id": 2,
     "name": "Discord Limited Edition Cofee Mug",
     "price": 15,
     "image": "https://i.ibb.co/nnmnfmn/mug.jpg",
-    "alt": ""
+    "alt": "mug",
+    "review_author": "Hema Juan",
+    "review_content": "talk about remorse!!! It only works when I'm Azerbaijan."
   },
   {
     "id": 3,
     "name": "Nike Shoes Air Red",
     "price": 30,
     "image": "https://i.ibb.co/XtFnQ6z/Sport-shoes-on-isolated-white-background.jpg",
-    "alt": ""
+    "alt": "shoes",
+    "review_author": "Vita Katharina",
+    "review_content": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide."
   },
   {
     "id": 4,
     "name": "Mens T-Shirt",
     "price": 5,
     "image": "https://i.ibb.co/q9dX1Nn/Big-Chungus-Is-Among-Us-Shirt.jpg",
-    "alt": ""
+    "alt": "t-shirt",
+    "review_author": "Sofija Matryona",
+    "review_content": "My neighbor Fannie has one of these. She works as a teacher and she says it looks spiky."
   },
   {
     "id": 5,
     "name": "SanDisk USB Drive 69 GB",
     "price": 30,
     "image": "https://i.ibb.co/ynQWdsP/SONY-DSC.jpg",
-    "alt": ""
+    "alt": "usb",
+    "review_author": "Dileep Vesta",
+    "review_content": "This usb works outstandingly well. It beautifully improves my basketball by a lot."
   }
 ]

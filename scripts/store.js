@@ -9,7 +9,7 @@ const loadProductData = () => {
     const alt = productData[i]["alt"];
     const price = productData[i]["price"];
     const name = productData[i]["name"];
-    console.log(imgSrc, alt, price, name);
+    const productInfoLink = productData[i]["product_info"];
     // HTML markup
     const markup = `
       <div class="product-div">
@@ -19,12 +19,10 @@ const loadProductData = () => {
           />
           <p class="price product-text">$${price}</p>
           <p class="description product-text">${name}</p>
-          <a href="#">View Item</a>
+          <a href="${productInfoLink}" target="_blank">View Item</a>
         </div>
       </div>
       `;
-    // container.innerHTML = markup;
-    // container.append(markup);
     container.innerHTML += markup;
   }
 };

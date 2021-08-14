@@ -6,7 +6,8 @@
     "image": "https://i.ibb.co/XkjNL8m/hoodie.jpg",
     "alt": "hoodie",
     "review_author": "Allovera Marko",
-    "review_content": "The box this comes in is 4 kilometer by 5 mile and weights 17 gram."
+    "review_content": "The box this comes in is 4 kilometer by 5 mile and weights 17 gram.",
+    "product_info": "http://localhost:1234/404.html"
   },
   {
     "id": 2,
@@ -15,7 +16,8 @@
     "image": "https://i.ibb.co/nnmnfmn/mug.jpg",
     "alt": "mug",
     "review_author": "Hema Juan",
-    "review_content": "talk about remorse!!! It only works when I'm Azerbaijan."
+    "review_content": "talk about remorse!!! It only works when I'm Azerbaijan.",
+    "product_info": "http://localhost:1234/404.html"
   },
   {
     "id": 3,
@@ -24,7 +26,8 @@
     "image": "https://i.ibb.co/XtFnQ6z/Sport-shoes-on-isolated-white-background.jpg",
     "alt": "shoes",
     "review_author": "Vita Katharina",
-    "review_content": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide."
+    "review_content": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+    "product_info": "http://localhost:1234/404.html"
   },
   {
     "id": 4,
@@ -33,7 +36,8 @@
     "image": "https://i.ibb.co/q9dX1Nn/Big-Chungus-Is-Among-Us-Shirt.jpg",
     "alt": "t-shirt",
     "review_author": "Sofija Matryona",
-    "review_content": "My neighbor Fannie has one of these. She works as a teacher and she says it looks spiky."
+    "review_content": "My neighbor Fannie has one of these. She works as a teacher and she says it looks spiky.",
+    "product_info": "http://localhost:1234/404.html"
   },
   {
     "id": 5,
@@ -42,6 +46,7 @@
     "image": "https://i.ibb.co/ynQWdsP/SONY-DSC.jpg",
     "alt": "usb",
     "review_author": "Dileep Vesta",
-    "review_content": "This usb works outstandingly well. It beautifully improves my basketball by a lot."
+    "review_content": "This usb works outstandingly well. It beautifully improves my basketball by a lot.",
+    "product_info": "http://localhost:1234/404.html"
   }
 ]
